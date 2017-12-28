@@ -3,7 +3,7 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 
 
 ## Running the Project
-- Clone the repository using `git clone https://github.com/aayusharora/Feed-Reader-Testing.git`
+- Clone the repository using `git clone https://github.com/Ayah2022/testFeedReader.git`
 
 - Navigate to index.html on your local machine and open it in a web browser
 - Head to the end of the page to see the results of running the Jasmine tests
